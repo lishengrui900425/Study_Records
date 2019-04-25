@@ -56,8 +56,6 @@ For this first exercise you’ll be expected to get your Terminal open and worki
 
 Get your Terminal , shell, or PowerShell working so you can access it quickly and know that it works.
 
-#### Windows
-
 On Windows we’re going to use PowerShell. People used to work with a program called cmd.exe, but it’s not nearly as usable as PowerShell. If you have Windows 7 or later, do this:
 
 - Click Start
@@ -118,13 +116,11 @@ I’m going to teach you how to read these “sessions” that I show you. You d
 
 Let’s do a simple first command so you can get the hang of this:
 
-#### Windows
-
 ![](D:\MyNoteBook\Learn-Python3-The-Hard-Way\images\print_current_working_directory.png)
 
 ### You Learned This
 
-Your prompt will look different from mine. You may have your user name before the > and the name of your computer. On windows it will probably look different too. The key is that you see the following pattern:
+On windows，you may have your user name before the > and the name of your computer. The key is that you see the following pattern:
 
 - There’s a prompt
 - You type a command there. In this case, it’s pwd
@@ -138,6 +134,8 @@ You just learned what pwd does, which means “print working directory”. What�
 - Type pwd 20 times and each time say “print working directory”
 - Write down the path that this command gives you. Find it with your graphical file browser of choice
 - No, seriously. type it 20 times and say it out loud. Sssh. Just do it.
+
+![](D:\MyNoteBook\Learn-Python3-The-Hard-Way\images\paths_folders_directories_do_more.png)
 
 ## If You Get Lost
 
@@ -159,6 +157,8 @@ This first command `pwd` tells you where you are. The second command `cd ~` take
 ### Do This
 
 Right now figure out where you are, and then go home using `pwd`and `cd ~`. This will make sure you are always in the right place.
+
+![](D:\MyNoteBook\Learn-Python3-The-Hard-Way\images\If_you_got_lost_do_this.png)
 
 ### You Learned This
 

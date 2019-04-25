@@ -29,4 +29,8 @@ Check your work, write down your mistakes, try not to make them on the next exer
 
 ## Common Student Questions
 
-**What do I get an error when I put spaces between the three double-quotes?** You have to type them like 
+**What do I get an error when I put spaces between the three double-quotes?** You have to type them like """ and not " " ", meaning with *no* space between each one.
+
+**What if I want to start the months on a new line?** You simply start the string with `\n`, like this:
+
+``

@@ -31,3 +31,10 @@ We will now type in a whole bunch of strings, variables, and formats, and print 
 ## Break it 
 
 You are now at a point where you can try to break your code to see what happens. Think of this as a game to devise the most clever way to break the code. You can also find the simplest way to break it. Once you break the code, you then need to fix it. If you have a friend, then two of you can try to break each other’s code and fix it. Give your friend your ex6.py file so they can break something. Then you try to find their error and fix it. Have fun with this, and remember that if you wrote this code once you can do it again. If you take your damage too far, you can always type it in again for extra practice.
+
+## Common Student Questions
+
+**Why do you put `‘` (single-quotes) around some strings and not others?** Mostly it's because of style, but I'll use a single-quote inside a string that hase double-quotes. Look at lines 6 and 15 to see how I'm doing that. 
+
+**If you thought the joke was funny could you write `hilarious = True`?** Yes, and you'll learn more about these boolean values in Exercise 27.
+

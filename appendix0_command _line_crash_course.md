@@ -1,3 +1,5 @@
+[TOC]
+
 # Command  Line Crash Course #
 
 This appendix is a super fast course in using the command line. It is intended to be done rapidly in about a day or two, and not meant to teach you advanced shell usage.
@@ -200,8 +202,6 @@ I’m going to give you the instructions for these sessions one more time:
 -  The output comes after you hit Enter, followed by another > prompt.
 - Always go home first! Do `pwd` and then `cd ~`, so you go back to your starting point.
 
-#### Windows
-
 ![](D:\MyNoteBook\Learn-Python3-The-Hard-Way\images\change_directories.png)
 
 ### You Learned This
@@ -234,8 +234,6 @@ In this exercise you learn how to list the contents of a directory with the ls c
 
 Before you start, make sure you cd back to the directory above temp. If you have no idea where you are, use `pwd`to figure it out and then move there.
 
-#### Windows
-
 ![](D:\MyNoteBook\Learn-Python3-The-Hard-Way\images\list_directory.png)
 
 ### You Learned This
@@ -258,8 +256,6 @@ In this exercise you learn how to remove an empty directory.
 
 ### Do This
 
-#### Windows
-
 ![](D:\MyNoteBook\Learn-Python3-The-Hard-Way\images\remove_an_empty_directory.png)
 
 ### You Learned This
@@ -277,8 +273,6 @@ In this example you’ll learn how to remove a directory. It’s easy. You just 
 In this exercise you learn how to save your current location and go to a new location with pushd. You then learn how to return to the saved location with popd.
 
 ### Do This
-
-#### Windows
 
 ![](D:\MyNoteBook\Learn-Python3-The-Hard-Way\images\move_around.png)
 

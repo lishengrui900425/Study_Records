@@ -33,4 +33,6 @@ Check your work, write down your mistakes, try not to make them on the next exer
 
 **What if I want to start the months on a new line?** You simply start the string with `\n`, like this:
 
-``
+`\nJan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug`
+
+**Is it bad that my errors are always spelling mistakes?**  Most programming errors in the beginning (and even later) are simple spelling mistakes, typos, or getting simple things out of order.

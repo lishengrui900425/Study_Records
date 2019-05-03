@@ -37,17 +37,17 @@ From now on we will be calling these “features” that we import *modules*. I�
 
 Run the program like this( and you *must* pass three command line arguments):
 
-![](D:\MyNoteBook\Learn-Python3-The-Hard-Way\images\ex13_demo_output_1.png)
+![](/images/ex13_demo_output_1.png)
 
 This is what you should see when you do a few different runs with different arguments:
 
-![](D:\MyNoteBook\Learn-Python3-The-Hard-Way\images\ex13_demo_output_2.png)
+![](/images/ex13_demo_output_2.png)
 
 You can actually replace first, 2nd, and 3rd with any three things you want.
 
 If you do not run it correctly , then you will get an error like this:
 
-![](D:\MyNoteBook\Learn-Python3-The-Hard-Way\images\ex13_demo_output_error.png)
+![](/images/ex13_demo_output_error.png)
 
 This happens when you do not put enough arguments on the command when you run it (in this case just first 2nd). Notice that when I run it give it first 2nd, which caused it to give an error about “need more than 3 values to unpack” telling you that you didn’t give it enough parameters.
 

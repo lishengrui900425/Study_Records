@@ -42,7 +42,7 @@ The remainder of the file is more of the same, but we’ll leave the analysis to
 
 I made a file called ex15_sample.txt and ran my script.
 
-![](D:\MyNoteBook\Learn-Python3-The-Hard-Way\images\ex15_demo_output.png)
+![](/images/ex15_demo_output.png)
 
 ## Study Drills
 
@@ -127,7 +127,7 @@ That’s a large file, probably the largest you have typed in.So go slow, do you
 
 There are actually two things you will see. First, the output of your new script:
 
-![](D:\MyNoteBook\Learn-Python3-The-Hard-Way\images\ex16_demo_output.png)
+![](/images/ex16_demo_output.png)
 
 Now, open up the file you made (in my case, test.txt) in your editor and check it out. Neat, right?
 

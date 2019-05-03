@@ -32,7 +32,7 @@ We make a variable, prompt, that is set to the prompt we want, and we give that 
 
 When you run this, remember that you have to give the script your name for the argv arguments.
 
-![](D:\MyNoteBook\Learn-Python3-The-Hard-Way\images\ex14_demo_output.png)
+![](/images/ex14_demo_output.png)
 
 ## Study Drills
 

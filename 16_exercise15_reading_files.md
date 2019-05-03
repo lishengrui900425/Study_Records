@@ -42,7 +42,7 @@ The remainder of the file is more of the same, but we’ll leave the analysis to
 
 I made a file called ex15_sample.txt and ran my script.
 
-![](https://raw.githubusercontent.com/learn_python_the_hard_way/master/images/ex15_demo_output.png?raw=true)
+![](/images/ex15_demo_output.png)
 
 ## Study Drills
 

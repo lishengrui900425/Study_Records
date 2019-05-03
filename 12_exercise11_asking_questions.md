@@ -32,3 +32,14 @@ print(f"So, you're {age} old, {heigh} tall and {weight} heavy.")
 2. Can you find other ways to use it? Try some of the samples you find.
 3. Write another “form” like this to ask some other questions.
 
+## Common Student Questions
+
+**How do I get a number from someone so I can do math?**  That’s a little advanced,  but try x = in(input()), which gets the number as a string from input(), then converts it to an integer using int().
+
+**I put my height into raw input like this `input("6'2") ` but it doesn’t work.** Don’t put your height in there; type it directly into your Terminal. First, go back and make the code exactly like mine. Next, run the script, and when it pauses, type your height in at your keyboard. That’s all there is to it  [^2] .
+
+
+
+[^1]: 加快脚步
+[^2]: 就是这样. That’s it.
+

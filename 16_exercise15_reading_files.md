@@ -42,7 +42,7 @@ The remainder of the file is more of the same, but we’ll leave the analysis to
 
 I made a file called ex15_sample.txt and ran my script.
 
-![](D:\MyNoteBook\Learn-Python3-The-Hard-Way\images\ex15_demo_output.png)
+![](images\ex15_demo_output.png)
 
 ## Study Drills
 

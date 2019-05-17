@@ -118,7 +118,7 @@ I’m going to teach you how to read these “sessions” that I show you. You d
 
 Let’s do a simple first command so you can get the hang of this:
 
-![](D:\MyNoteBook\Learn-Python3-The-Hard-Way\images\print_current_working_directory.png)
+![](D:\MyNoteBook\Python_Programming\Learn-Python3-The-Hard-Way\images\print_current_working_directory.png)
 
 ### You Learned This
 
@@ -137,7 +137,7 @@ You just learned what pwd does, which means “print working directory”. What�
 - Write down the path that this command gives you. Find it with your graphical file browser of choice
 - No, seriously. type it 20 times and say it out loud. Sssh. Just do it.
 
-![](D:\MyNoteBook\Learn-Python3-The-Hard-Way\images\paths_folders_directories_do_more.png)
+![](D:\MyNoteBook\Python_Programming\Learn-Python3-The-Hard-Way\images\paths_folders_directories_do_more.png)
 
 ## If You Get Lost
 
@@ -296,7 +296,7 @@ In this exercise you learn how to make an empty file using the `New-Item` comman
 
 ### Do This
 
-![](D:\MyNoteBook\Learn-Python3-The-Hard-Way\images\making_empty_files.png)
+![](D:\MyNoteBook\Python_Programming\Learn-Python3-The-Hard-Way\images\making_empty_files.png)
 
 ### You Learned This
 
